@@ -1,0 +1,371 @@
+{
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "index.html",
+      "page": "home",
+      "kicker": "Profile",
+      "description": "Overview, contact, and quick links."
+    },
+    {
+      "label": "Education",
+      "href": "education.html",
+      "page": "education",
+      "kicker": "Timeline",
+      "description": "Academic programs and degrees."
+    },
+    {
+      "label": "Experience",
+      "href": "experience.html",
+      "page": "experience",
+      "kicker": "Work",
+      "description": "Teaching, research support, and professional roles."
+    },
+    {
+      "label": "Research",
+      "href": "research.html",
+      "page": "research",
+      "kicker": "Publications",
+      "description": "Journal articles, conference papers, and scholar profile."
+    },
+    {
+      "label": "Achievements",
+      "href": "achievements.html",
+      "page": "achievements",
+      "kicker": "Recognition",
+      "description": "Awards, certificates, and distinctions."
+    },
+    {
+      "label": "Places",
+      "href": "places.html",
+      "page": "places",
+      "kicker": "Travel",
+      "description": "Conference trips, training programs, and travel notes."
+    },
+    {
+      "label": "Resources",
+      "href": "resources.html",
+      "page": "resources",
+      "kicker": "Students",
+      "description": "Podcast episodes and useful learning resources."
+    }
+  ],
+  "profile": {
+    "name": "Bay Nguyen-Van",
+    "shortName": "Bay Nguyen-Van",
+    "headline": "Lecturer & Researcher",
+    "summary": "Passionate lecturer and researcher in Computer Science with deep expertise in Artificial Intelligence and Machine Learning. Focused on impactful research and inspiring the next generation of students.",
+    "photo": "assets/avatar.jpeg",
+    "facts": [
+      { "label": "Current role", "value": "Full-time Lecturer" },
+      { "label": "Institution", "value": "Ho Chi Minh City Open University" },
+      { "label": "Research fields", "value": "AI, Machine Learning, Data Science" }
+    ],
+    "links": [
+      { "label": "Email", "url": "mailto:bay.nv@ou.edu.vn" },
+      { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=1oDzNQ0AAAAJ" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/nvb99/" }
+    ]
+  },
+  "education": [
+    {
+      "period": "Dec 2024 - Present",
+      "title": "Ph.D. in Computer Science",
+      "organization": "Ho Chi Minh City Open University - Postgraduate"
+    },
+    {
+      "period": "Nov 2021 - Dec 2023",
+      "title": "Master's of Computer Science",
+      "organization": "Ho Chi Minh City Open University - Postgraduate"
+    },
+    {
+      "period": "Dec 2023 - Feb 2026",
+      "title": "Bachelor of English Language",
+      "organization": "Tra Vinh University"
+    },
+    {
+      "period": "Oct 2017 - Oct 2021",
+      "title": "Bachelor's of Computer Science",
+      "organization": "Ho Chi Minh City Open University"
+    }
+  ],
+  "experience": [
+    {
+      "period": "May 2026 - Present",
+      "title": "Full-time Lecturer",
+      "organization": "Ho Chi Minh City Open University",
+      "description": "Subjects: Programming Techniques, Data Structure and Algorithms, Software Testing, Object-based Programming, Java Programming, Data Mining, etc."
+    },
+    {
+      "period": "Aug 2020 - May 2026",
+      "title": "Support Staff",
+      "organization": "Ho Chi Minh City Open University",
+      "details": [
+        "Responsible for student and lecturer scientific research.",
+        "Management of practical laboratory and support for inspection work."
+      ]
+    },
+    {
+      "period": "July 2021 - Feb 2022",
+      "title": "Social Community Manager",
+      "organization": "iTeach VN",
+      "details": [
+        "Gained more members and seeded content for iConnect group.",
+        "Joined iConnect Club as a Teacher Assistant."
+      ]
+    },
+    {
+      "period": "Oct 2018 - Apr 2020",
+      "title": "Formula Operator",
+      "organization": "Bigdatatrace JSC",
+      "details": [
+        "Agricultural industry traceability data management.",
+        "Collected data for retrieval and e-commerce applications.",
+        "Worked on front-end and back-end programming for diagri.net and related websites."
+      ]
+    }
+  ],
+  "scholarUrl": "https://scholar.google.com/citations?user=1oDzNQ0AAAAJ",
+  "publications": {
+    "2026": [
+      {
+        "title": "E-commerce video & content understanding via vision: a comprehensive study on lip reading and visual speech recognition for enhanced shopping experience",
+        "authors": "NT Hau, TH Vinh, D Nghia, LQ Phuong, DTH Ha, NV Bay, HH Thien",
+        "venue": "Scientific Reports (2026)",
+        "doi": "10.1038/s41598-026-62988-0",
+        "url": "https://doi.org/10.1038/s41598-026-62988-0"
+      },
+      {
+        "title": "UniModal-LSR: A Unified Multimodal Framework for Joint Lip Reading and Sign Language Recognition in Video Sequences",
+        "authors": "THH Vinh Truong Hoang, Nghia Dinh, Luu Quang Phuong, Kiet Tran-Trung, Ha et al.",
+        "venue": "Computers, Materials & Continua (2026)",
+        "doi": "10.32604/cmc.2026.078743",
+        "url": "https://doi.org/10.32604/cmc.2026.078743"
+      },
+      {
+        "title": "NestLipGNN: A Hierarchical Graph Neural Network Framework with Nested Multi-Granularity Learning for Robust Visual Speech Recognition",
+        "authors": "VT Hoang, N Dinh, LQ Phuong, K Tran-Trung, HDT Hong, BN Van et al.",
+        "venue": "Computers, Materials & Continua 88 (1) (2026)",
+        "doi": "10.32604/cmc.2026.078089",
+        "url": "https://doi.org/10.32604/cmc.2026.078089"
+      },
+      {
+        "title": "YOLOv10-HQGNN: A Hybrid Quantum Graph Learning Framework for Real-Time Faulty Insulator Detection",
+        "authors": "N Dinh, VT Hoang, VT Le, K Tran-Trung, HDT Hong, BN Van, HN Trung et al.",
+        "venue": "CMC-COMPUTERS MATERIALS & CONTINUA 86 (3) (2026)",
+        "doi": "10.32604/cmc.2025.069587",
+        "url": "https://doi.org/10.32604/cmc.2025.069587"
+      }
+    ],
+    "2025": [
+      {
+        "title": "CTVAE: Contrastive Tabular Variational Autoencoder for imbalance data",
+        "authors": "Wang, A.X., Le, M.Q., Duong, H.T. et al.",
+        "venue": "Knowledge and Information Systems (2025)",
+        "doi": "10.1007/s10115-025-02377-7",
+        "url": "https://doi.org/10.1007/s10115-025-02377-7",
+        "note": "Q1"
+      },
+      {
+        "title": "Water Meter Reading Based on Text Recognition Techniques and Deep Learning",
+        "authors": "B. Nguyen Van et al.",
+        "venue": "IEEE Access, vol. 13, pp. 41422-41434, 2025",
+        "doi": "10.1109/ACCESS.2025.3547225",
+        "url": "http://doi.org/10.1109/ACCESS.2025.3547225",
+        "note": "Q1"
+      },
+      {
+        "title": "Kinship verification via ear images: A comparative study",
+        "authors": "Luu, Phuong Quang, Bay Van Nguyen, and Huy Quoc Nguyen",
+        "venue": "Ho Chi Minh City Open University Journal of Science - Engineering and Technology 15.1 (2025)",
+        "doi": "10.46223/HCMCOUJS.tech.en.15.1.3683.2025",
+        "url": "https://journalofscience.ou.edu.vn/index.php/tech-en/article/view/3683"
+      },
+      {
+        "title": "An unsupervised approach for sentiment analysis via financial texts",
+        "authors": "Pham, Cong Chi, Bay Van Nguyen, and Huy Quoc Nguyen",
+        "venue": "Ho Chi Minh City Open University Journal of Science - Engineering and Technology 15.2 (2025)",
+        "doi": "10.46223/HCMCOUJS.tech.en.15.2.3684.2025",
+        "url": "https://journalofscience.ou.edu.vn/index.php/tech-en/article/view/3684"
+      }
+    ],
+    "2024": [
+      {
+        "title": "A Short Review for Handwritten Math Expression Recognition Techniques",
+        "authors": "Van, Bay Nguyen, and Vinh Truong Hoang",
+        "venue": "Procedia Computer Science 235 (2024): 231-239",
+        "doi": "10.1016/j.procs.2024.04.025",
+        "url": "https://doi.org/10.1016/j.procs.2024.04.025"
+      }
+    ]
+  },
+  "awards": [
+    "Valedictorian of Master of Computer Science Program - Ho Chi Minh City Open University (2023).",
+    "Outstanding Master's Thesis Defense - Ho Chi Minh City Open University (2023).",
+    "Outstanding Undergraduate Thesis Defense - Ho Chi Minh City Open University (2017).",
+    "Awarded the Student of Five Merits title at the school level for academic year 2020-2021 - Ho Chi Minh City Open University.",
+    "Recognized as an individual who completed outstanding Youth Union and Youth Movement work for academic year 2020-2021 at city level, Ho Chi Minh City.",
+    "Awarded the Advanced youth follow President Ho Chi Minh's wills title at school level for academic year 2020-2021 - Ho Chi Minh City Open University.",
+    "Awarded the Outstanding Youth Union Officer title for academic years 2020-2021 and 2019-2020 - Ho Chi Minh City Open University.",
+    "Third place in the Top Three Outstanding Debating Teams at the Vietlish Public Speaking Contest 2018 organized by Vietlish Co-spaces."
+  ],
+  "certificates": [
+    "English Certificate VSTEP, Level B2 (7.5), issued by Van Lang University.",
+    "Certificate of completion of the Digital Marketing Training Course, awarded by Digital Platform Academy Vietnam and Ho Chi Minh City Open University.",
+    "Certificate of completion for Quality Improvement After Quality Assurance in Education, awarded by the Center for Educational Quality Accreditation, Vietnam National University, Ho Chi Minh City.",
+    "Pedagogical Skills Training Certificate for University and College Lecturers."
+  ],
+  "resources": [
+    {
+      "type": "Podcast",
+      "title": "Why Should We Learn?",
+      "label": "Listen now",
+      "url": "https://www.tiktok.com/@nvb910/video/7506935375491910919"
+    },
+    {
+      "type": "Podcast",
+      "title": "Focus - a skill we never learned",
+      "label": "Listen now",
+      "url": "https://www.tiktok.com/@nvb910/video/7507293995748429063"
+    },
+    {
+      "type": "Podcast",
+      "title": "Find Meaning, Not Just Success",
+      "label": "Listen now",
+      "url": "https://www.tiktok.com/@nvb910/video/7508297167711341832"
+    },
+    {
+      "type": "Podcast",
+      "title": "Comparing Yourself Danger",
+      "label": "Listen now",
+      "url": "https://www.tiktok.com/@nvb910/video/7507687421643951378"
+    }
+  ],
+  "places": [
+    {
+      "title": "Taiwan",
+      "type": "Travel",
+      "period": "4 - 8 September, 2026",
+      "location": "Kaohsiung, Taichung, Taipei",
+      "description": "Travel through Kaohsiung, Taichung, and Taipei.",
+      "images": [
+        {
+          "src": "gallery/Taiwan-Sep-2026/01.jpg",
+          "alt": "Travel through Kaohsiung, Taichung, and Taipei.",
+          "caption": "--"
+        },
+        {
+          "src": "gallery/Taiwan-Sep-2026/02.jpg",
+          "alt": "Travel through Kaohsiung, Taichung, and Taipei.",
+          "caption": "--"
+        },
+        {
+          "src": "gallery/Taiwan-Sep-2026/03.jpg",
+          "alt": "Travel through Kaohsiung, Taichung, and Taipei.",
+          "caption": "--"
+        }
+      ]
+    },
+    {
+      "title": "Seoul, Korea",
+      "type": "Training",
+      "period": "1 - 8 August, 2026",
+      "location": "Korea National Open University",
+      "description": "UNESCO UNITWIN training program at KNOU.",
+      "images": [
+        {
+          "src": "gallery/UNITWIN-Aug-2026/01.jpeg",
+          "alt": "UNESCO UNITWIN training program at KNOU.",
+          "caption": "Group photo with trainees from four countries."
+        },
+        {
+          "src": "gallery/UNITWIN-Aug-2026/03.jpg",
+          "alt": "UNESCO UNITWIN training program at KNOU.",
+          "caption": "Giving a speech at the closing ceremony."
+        },
+        {
+          "src": "gallery/UNITWIN-Aug-2026/02.jpg",
+          "alt": "UNESCO UNITWIN training program at KNOU.",
+          "caption": "Receiving the certificate from the President of KNOU."
+        }
+      ]
+    },
+    {
+      "title": "Thailand",
+      "type": "Conference",
+      "period": "24 - 27 June, 2026",
+      "location": "Thailand",
+      "description": "The 23rd International Joint Conference on Computer Science and Software Engineering (JCSSE 2026) June 24–27, 2026, Bangkok, Thailand",
+      "images": []
+    },
+    {
+      "title": "Seoul, Korea",
+      "type": "Travel",
+      "period": "31 March - 4 April, 2026",
+      "location": "Seoul, Korea",
+      "description": "Travel in South Korea.",
+      "images": [
+        {
+          "src": "gallery/Korea-April-2026/Seoul April.jpg",
+          "alt": "Travel photo from Seoul, Korea in April 2026",
+          "caption": "Seoul, Korea - April 2026"
+        }
+      ]
+    },
+    {
+      "title": "Ho Chi Minh City, Vietnam",
+      "type": "Conference",
+      "period": "09 - 11 Nov, 2025",
+      "location": "Ho Chi Minh City Open University, HCM City, Vietnam",
+      "description": "1st International Conference on Explainable Intelligence in Digital Twins (EIDT - 2025), organized by Ho Chi Minh City Open University (HCMCOU)",
+      "images": [
+        {
+          "src": "gallery/EIDT-2025/EIDT01.jpg",
+          "alt": "---",
+          "caption": "Group photo at the Openning Ceremony session"
+        },{
+          "src": "gallery/EIDT-2025/EIDT-02.jpg",
+          "alt": "---",
+          "caption": "Me and Dr. LQ Minh (We are MC at the Conf!)"
+        },{
+          "src": "gallery/EIDT-2025/EIDT03.jpg",
+          "alt": "---",
+          "caption": "This is me! The MC for Closing Ceremony of the Conf."
+        }
+      ]
+    },
+    {
+      "title": "Beijing, China",
+      "type": "Conference",
+      "period": "19 - 23 October, 2025",
+      "location": "Kuntai Glory Hotel, Beijing, China",
+      "description": "The 38th AAOU Annual Conference is hosted by the Open University of China and will be held in Kuntai Glory Hotel, Beijing, China from 20-23 October 2025.",
+      "images": [
+        {
+          "src": "gallery/Beijing-Oct-2025/AAOU 02.jpg",
+          "alt": "AAOU 2025 conference session in Beijing",
+          "caption": "I presented our article at the Conference."
+        },
+        {
+          "src": "gallery/Beijing-Oct-2025/AAOU 03.jpg",
+          "alt": "AAOU 2025 conference moment in Beijing",
+          "caption": "A corner of the Great Wall of China."
+        },
+        {
+          "src": "gallery/Beijing-Oct-2025/AAOU 04.jpg",
+          "alt": "AAOU 2025 conference moment in Beijing",
+          "caption": "Summer Palace in Beijing, China."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "office": "Office: R. 604, 35-37 Ho Hao Hon, Cau Ong Lanh Ward, HCMC",
+    "phone": "Mobile: (+84) 979 541 934",
+    "email": "bay.nv@ou.edu.vn"
+  },
+  "socials": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/nvb99/" },
+    { "label": "Facebook", "url": "http://facebook.com/nvb99" }
+  ]
+}
